@@ -1,0 +1,7 @@
+This is an experiment in working with three technologies: OpenGL/GLUT, bitmaps, and the Bresenham Line Algorithm. I created an extremely basic bitmap library to store a map, which was used in conjunction with the Bresenham Line Algorithm to draw a line from the center of a window to the mouse location. The insights and code developed while working on this project were then used in my Monte Carlo Simulator.
+
+The Makefile and GLUT include path for this project are specific to OS X because I am not very familiar with GNU Autotools yet. Also, very little to no documentation is provided because this was more a tech demo than an actual project.
+
+This software is released under the GPL "as-is" without any warranty.
+Copyright (C) 2011 by Eric Bakan.
+
